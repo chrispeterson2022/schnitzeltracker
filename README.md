@@ -1,0 +1,2 @@
+# schnitzeltracker
+NFT tracking tool
